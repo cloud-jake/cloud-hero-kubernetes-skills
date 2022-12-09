@@ -1,5 +1,5 @@
 
-source variable.inc
+source variables.inc
 
 gcloud config set compute/region $REGION
 

@@ -1,4 +1,4 @@
-ource variables.inc
+source variables.inc
 
 kubectl expose deployment hello-server --type=LoadBalancer --port 8080
 
