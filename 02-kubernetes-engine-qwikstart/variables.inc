@@ -1,2 +1,2 @@
-REGION=us-central1
-ZONE=us-central1-a
+REGION=us-east4
+ZONE=us-east4-a
